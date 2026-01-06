@@ -25,5 +25,5 @@ pip install -r requirements.txt
 
 ## Author
 - **iamcipher1** – [GitHub](https://github.com/iamcipher1)
-- LinkedIn: [Hannah Chinenye Iroegbu](https://www.linkedin.com/in/     https://www.linkedin.com/in/chinenye-hannah-iroegbu-9458ab348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Hannah Chinenye Iroegbu](https://www.linkedin.com/in/chinenye-hannah-iroegbu-9458ab348/)
 - Email: iroegbuchinenyehannah@gmail.com
